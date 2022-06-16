@@ -1,8 +1,7 @@
-import { Switch, Route, Link, Routes } from "react-router-dom";
+import { Route, Link, Routes } from "react-router-dom";
 import { Layout, Typography, Space } from "antd";
 import {
   Navbar,
-  Exchanges,
   Homepage,
   Cryptocurrencies,
   News,
